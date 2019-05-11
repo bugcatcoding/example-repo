@@ -5,6 +5,7 @@
         echo $username;
         echo $password;
     }
+    echo "hi";
 ?>
 
 <html lang="en">
